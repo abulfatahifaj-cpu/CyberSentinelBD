@@ -1,0 +1,1 @@
+Optional assets folder. The website works without an image logo.
